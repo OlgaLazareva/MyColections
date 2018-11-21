@@ -1,0 +1,14 @@
+C:\Users\Ольга\Desktop\пнаяву\MyColections-master\Lab3pnyavy\bin\Debug\Lab3pnyavy.exe.config
+C:\Users\Ольга\Desktop\пнаяву\MyColections-master\Lab3pnyavy\bin\Debug\Lab3pnyavy.exe
+C:\Users\Ольга\Desktop\пнаяву\MyColections-master\Lab3pnyavy\bin\Debug\Lab3pnyavy.pdb
+C:\Users\Ольга\Desktop\пнаяву\MyColections-master\Lab3pnyavy\obj\Debug\Lab3pnyavy.csprojResolveAssemblyReference.cache
+C:\Users\Ольга\Desktop\пнаяву\MyColections-master\Lab3pnyavy\obj\Debug\Lab3pnyavy.csproj.CoreCompileInputs.cache
+C:\Users\Ольга\Desktop\пнаяву\MyColections-master\Lab3pnyavy\obj\Debug\Lab3pnyavy.exe
+C:\Users\Ольга\Desktop\пнаяву\MyColections-master\Lab3pnyavy\obj\Debug\Lab3pnyavy.pdb
+C:\Users\Ольга\Desktop\пнаяву\MyColections\Lab3pnyavy\bin\Debug\Lab3pnyavy.exe.config
+C:\Users\Ольга\Desktop\пнаяву\MyColections\Lab3pnyavy\bin\Debug\Lab3pnyavy.exe
+C:\Users\Ольга\Desktop\пнаяву\MyColections\Lab3pnyavy\bin\Debug\Lab3pnyavy.pdb
+C:\Users\Ольга\Desktop\пнаяву\MyColections\Lab3pnyavy\obj\Debug\Lab3pnyavy.csprojResolveAssemblyReference.cache
+C:\Users\Ольга\Desktop\пнаяву\MyColections\Lab3pnyavy\obj\Debug\Lab3pnyavy.csproj.CoreCompileInputs.cache
+C:\Users\Ольга\Desktop\пнаяву\MyColections\Lab3pnyavy\obj\Debug\Lab3pnyavy.exe
+C:\Users\Ольга\Desktop\пнаяву\MyColections\Lab3pnyavy\obj\Debug\Lab3pnyavy.pdb
